@@ -63,8 +63,7 @@ python move_jpg_files.py
 
 Source folder containing JPG files.
 
-C:\Users\parim\OneDrive\Desktop\CodeAlpha_Task_Automation\screenshots\Before.png
-
+![Before](Before.png)
 
 ---
 
@@ -72,7 +71,7 @@ C:\Users\parim\OneDrive\Desktop\CodeAlpha_Task_Automation\screenshots\Before.png
 
 Terminal output after running the script.
 
-C:\Users\parim\OneDrive\Desktop\CodeAlpha_Task_Automation\screenshots\Output.png
+![Output](Output.png)
 
 ---
 
@@ -80,7 +79,7 @@ C:\Users\parim\OneDrive\Desktop\CodeAlpha_Task_Automation\screenshots\Output.png
 
 Files successfully moved to destination folder.
 
-C:\Users\parim\OneDrive\Desktop\CodeAlpha_Task_Automation\screenshots\After.png
+![After](After.png)
 
 ---
 
